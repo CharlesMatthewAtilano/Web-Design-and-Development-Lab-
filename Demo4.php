@@ -1,3 +1,12 @@
+<html>
+<head>
+<title>SECRET</title>
+</head>
+<body>
+<body bgcolor ="green">
+
+<?php
+
 //while loop
 $fuel = 10;
 while($fuel>=1)
@@ -50,3 +59,12 @@ for ($x = 0; $x < 10; $x++)
 		echo "The number is: $x <br>";
 }
 echo "<br>";
+
+
+
+
+
+
+?>
+</body>
+</html>
